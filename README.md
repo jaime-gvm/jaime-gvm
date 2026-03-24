@@ -33,7 +33,7 @@ I care about **how computers actually work** — memory, processes, file descrip
 ### `> skills --list`
 
 **Language**
-`C` &nbsp; `C++` &nbsp; `Shell` &nbsp; `HTML/CSS`
+`C` &nbsp; `Shell` &nbsp; `HTML/CSS`
 
 **Unix / Systems**
 `Processes` &nbsp; `Signals` &nbsp; `Sockets` &nbsp; `fd's`
@@ -60,7 +60,6 @@ I care about **how computers actually work** — memory, processes, file descrip
 | [**philosophers**](https://github.com/jaime-gvm/philosophers) | `C` `POSIX` | Dining philosophers — threads, mutexes, deadlock prevention |
 | [**push_swap**](https://github.com/jaime-gvm/push_swap) | `C` | Stack sorting — chunk-based algorithm, ~700 ops for 100 elements |
 | [**so_long**](https://github.com/jaime-gvm/so_long) | `C` `MiniLibX` | 2D game — map parsing, flood-fill validation, XPM sprites |
-| [**cub3D**](https://github.com/jaime-gvm) | `C` `MiniLibX` | Raycasting engine — DDA algorithm, textured walls, minimap |
 
 </div>
 
