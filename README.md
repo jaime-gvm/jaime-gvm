@@ -70,7 +70,7 @@ I care about **how computers actually work** — memory, processes, file descrip
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jaime-gvm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6b8cba&icon_color=6b8cba&text_color=c8d6f0&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jaime-gvm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6b8cba&icon_color=6b8cba&text_color=c8d6f0" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-gvm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6b8cba&text_color=c8d6f0&langs_count=6" />
 
