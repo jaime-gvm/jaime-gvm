@@ -95,7 +95,7 @@ I care about **how computers actually work** — memory, processes, file descrip
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaime--garcia-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=6b8cba&labelColor=0d1117)](https://www.linkedin.com/in/jaime-garcia-vallecillo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaime--garcia-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=6b8cba&labelColor=0d1117)](https://www.linkedin.com/in/jaime-gvm/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-jaime--gvm-1a1a2e?style=for-the-badge&logo=github&logoColor=c8d6f0&labelColor=0d1117)](https://github.com/jaime-gvm)
 
